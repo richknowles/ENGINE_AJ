@@ -1,0 +1,13 @@
+2025/04/10-02:47:01.748 4ec451 Reusing MANIFEST /Users/rtk/alisa/ENGINE_AJ/user_data/Default/Local Storage/leveldb/MANIFEST-000001
+2025/04/10-02:47:01.760 4ec451 Recovering log #10
+2025/04/10-02:47:01.761 4ec451 Level-0 table #12: started
+2025/04/10-02:47:01.772 4ec451 Level-0 table #12: 17495 bytes OK
+2025/04/10-02:47:01.788 4ec451 Delete type=0 #10
+2025/04/10-02:47:01.789 4ec453 Compacting 4@0 + 0@1 files
+2025/04/10-02:47:01.795 4ec453 Generated table #14@0: 99 keys, 13421 bytes
+2025/04/10-02:47:01.795 4ec453 Compacted 4@0 + 0@1 files => 13421 bytes
+2025/04/10-02:47:01.803 4ec453 compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/04/10-02:47:01.805 4ec453 Delete type=2 #3
+2025/04/10-02:47:01.805 4ec453 Delete type=2 #12
+2025/04/10-02:47:01.805 4ec453 Delete type=2 #6
+2025/04/10-02:47:01.805 4ec453 Delete type=2 #9
