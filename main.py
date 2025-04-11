@@ -1,3 +1,5 @@
+__version__ = "1.0.0"
+
 from app.aj_driver import get_driver
 from app.aj_sender import send_message
 import pandas as pd
