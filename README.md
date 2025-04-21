@@ -16,32 +16,6 @@ Engine AJ is a stealthy WhatsApp Web automation tool designed to send messages i
 
 ---
 
-## Setup Instructions
-
-### 1. Install Dependencies (macOS)
-```bash
-brew install python3
-pip3 install selenium undetected-chromedriver python-dotenv pandas
-brew install --cask google-chrome
-```
-
-### 2. Run the App
-```bash
-python3 launcher.py
-```
-
----
-
-## File Structure
-
-- `main.py` – Handles flow
-- `launcher.py` – Starts the engine
-- `recipients.csv` – Phone numbers and messages
-- `app/aj_driver.py` – Chrome driver init
-- `app/aj_sender.py` – Messaging logic
-- `app/aj_utils.py` – Human-like behavior functions
-
----
 
 ## LICENSE
-©2025 Rich Knowles – Released under GPLv3
+©2025 Rich Knowles – all rights reserved
