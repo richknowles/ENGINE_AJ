@@ -15,6 +15,7 @@ Engine AJ is a stealthy WhatsApp Web automation tool designed to send messages i
 - Requires no WhatsApp Business account
 
 ---
+![Social](https://github.com/richknowles/ENGINE_AJ/blob/main/engine_aj_github_social.png)
 
 
 ## LICENSE
