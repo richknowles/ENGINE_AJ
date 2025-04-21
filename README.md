@@ -1,7 +1,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/richknowles/ENGINE-AJ-WINDOWS/blob/main/ENGINE-AJ-WINDOWS-SPLASH.png" alt="ENGINE AJ Icon" width="1024" />
+  <img src="https://github.com/richknowles/ENGINE_AJ/blob/main/81B24469-E4EF-4B0C-A4F3-C647C0F4D5F6.png" alt="ENGINE AJ SPLASH" width="512" />
 </p>
 ---
 
