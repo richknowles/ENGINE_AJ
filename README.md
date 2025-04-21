@@ -9,10 +9,10 @@ Engine AJ is a stealthy WhatsApp Web automation tool designed to send messages i
 ---
 
 ## Features
-- Uses `undetected-chromedriver` to reduce risk of WhatsApp bans
-- Simulates human interaction with random scrolls, typing delays, and mouse movement
-- Easy CSV-based batch messaging
-- Requires no WhatsApp Business account
+- Reduces risk of WhatsApp bans
+- Lessens bot detection
+- Batch messaging
+- WhatsApp Business account NOT REQUIRED
 
 ---
 ![Social](https://github.com/richknowles/ENGINE_AJ/blob/main/engine_aj_github_social.png)
